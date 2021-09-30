@@ -1,5 +1,5 @@
 # TateScript
-The world's worst programming language
+The world's worst programming language (I made this in middle school)
 
 # Commands
   **establish**  
