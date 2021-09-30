@@ -1,0 +1,10 @@
+print "the game is meta"
+
+
+comment this is a good game
+sleep 4
+print "you are gaming"
+sleep 1
+print "game over"
+sleep 12
+print "you should give this game a 10/10"
